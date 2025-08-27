@@ -16,8 +16,8 @@ Each folder (`Exercise 1`, `Exercise 2`, etc.) includes solutions to basic Java 
   - Question 7 → Display numbers that are multiples of both 3 and 9
  
 - `Exercise 3`  
-- Question 2: Create a program to get a string from user and change all occurrences of its first char to `$`, except the first char itself.  
-- Question 6: Given a string, display the run length encoded string for the given string.    
+  - Question 2: Create a program to get a string from user and change all occurrences of its first char to `$`, except the first char itself.  
+  - Question 6: Given a string, display the run length encoded string for the given string.    
 
 ## Tools Used
 - Language: Java  
