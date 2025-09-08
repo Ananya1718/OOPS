@@ -17,7 +17,10 @@ Each folder (`Exercise 1`, `Exercise 2`, etc.) includes solutions to basic Java 
  
 - `Exercise 3`  
   - Question 2: Create a program to get a string from user and change all occurrences of its first char to `$`, except the first char itself.  
-  - Question 6: Given a string, display the run length encoded string for the given string.    
+  - Question 6: Given a string, display the run length encoded string for the given string.
+
+- `Exercise 4`  
+- Question 2: Create a `FoodOrder` class with order ID, food item name, price, and quantity, and include a constructor to initialize these details. Add a method to calculate the total bill as `(price × quantity) + ₹50` for delivery charges. Take input for two different orders, create two `FoodOrder` objects, and display the total bill for each order.  
 
 ## Tools Used
 - Language: Java  
