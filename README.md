@@ -6,14 +6,14 @@ Each folder (`Exercise 1`, `Exercise 2`, etc.) includes solutions to basic Java 
 ## Folder Structure
 
 - `Exercise 1`  
-  - Q1-Ticket Price Calculator 
-  - Q2-Electricity Usage Tracker  
-  - Q3-ATM Simulation  
-  - Q4-Number Guessing Game  
+  - Question 1: Ticket Price Calculator 
+  - Question 2: Electricity Usage Tracker  
+  - Question 3: ATM Simulation  
+  - Question 4: Number Guessing Game  
 
 - `Exercise 2`
-  - Question 6 → Search a number in an array and count its occurrences  
-  - Question 7 → Display numbers that are multiples of both 3 and 9
+  - Question 6: Search a number in an array and count its occurrences  
+  - Question 7: Display numbers that are multiples of both 3 and 9
  
 - `Exercise 3`  
   - Question 2: Create a program to get a string from user and change all occurrences of its first char to `$`, except the first char itself.  
