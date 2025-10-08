@@ -30,8 +30,20 @@ Each folder (`Exercise 1`, `Exercise 2`, etc.) includes solutions to basic Java 
     - View Balance  
     - Withdraw (with service charge)  
     - Deposit (with interest)  
-  - Demonstrates the use of constructors, method overriding, and polymorphism.  
-- File: `Exercise5_BankATMApp.java`
+  - Demonstrates the use of constructors, method overriding, and polymorphism.
+   
+- `Exercise 6`
+  - **Mobile Recharge Application using Abstract Class and Interface**  
+  - Interface: `RechargeActions` → methods: `doRecharge()`, `checkBalance()`, `viewCustomerDetails()`  
+  - Abstract Class: `Customer` → attributes: `customerId`, `customerName`, `mobileBalance`  
+  - Concrete Class: `RechargeSystem` → inherits `Customer` and implements `RechargeActions`  
+  - Main Class: `MobileRechargeApp` → menu-driven program to perform recharge operations  
+  - Features:  
+    - Do Recharge  
+    - Check Balance  
+    - View Customer Details  
+    - Exit
+
 
 ## Tools Used
 - Language: Java  
